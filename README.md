@@ -1,42 +1,23 @@
-# Danial_Myrzatayev
-💻 Hello! I'm Danial 👋
-I am a 19-year-old, second-year student at Astana IT University and a highly motivated Aspiring Back-end Developer. My main focus is securing my first internship to transition from academic knowledge to professional, real-world development.
+# Hi, I'm Danial
 
-🚀 Tech Stack & Core Competencies
-I am actively building and solidifying my expertise in the fundamental technologies for modern Back-end development.
+LLM engineer with a Go and Python backend background, based in Astana, Kazakhstan. I build RAG systems that run in production, fine-tune open models for Russian and Kazakh, and measure whether a model is actually ready to ship.
 
-Primary Language - Java
-Frameworks - Spring, Spring Boot
-Databases - PostgreSQL
-Development Tool - Git, GitHub, IDE
+**Now:** Full-Stack Developer (Python, Go) & DevOps at Lift.kz — production RAG assistant for elevator mechanics (recall@5 0.98 on 28 labelled questions), Go microservices, Kubernetes.
+**Studying:** Software Engineering, Astana IT University (2027).
 
-🛠️ Professional Skills
-- Documentation & API Integration: Skilled at quickly learning new APIs and adhering to technical specifications (T/S or requirements).
+## Featured
+- **[soup-ai-engineer-task](https://github.com/DanialMyrzatayevMuratovich/soup-ai-engineer-task)** — LoRA → merge → 4-bit study: memory budget estimated before training (within 7% of measured), proof of training with a paired bootstrap and negative controls, verdict DON'T SHIP.
+- **[datathon26](https://github.com/DanialMyrzatayevMuratovich/datathon26)** — DATATHON'26 × ForteBank: local video-analysis service, 97.5% (39/40), 0 false alarms. Three people, three coordinated AI agents (hooks, skills, agent-to-agent channel over git).
+- **[saqbol](https://github.com/DanialMyrzatayevMuratovich/saqbol)** — scam SMS and call detection for Kazakh and Russian (F1 0.98): Go + Python ML over gRPC + Flutter.
+- **[shymkz-ai-hackathon](https://github.com/DanialMyrzatayevMuratovich/shymkz-ai-hackathon)** — LLM agent that checks loan covenants from PDF documents.
+- **[sre-capstone](https://github.com/DanialMyrzatayevMuratovich/sre-capstone)** — Go + Vue app with Terraform, CI/CD, observability and load testing.
+- **CourtChain-LM** (private) — Russian/Kazakh legal LLM: QLoRA on 4,880 examples, retriever fine-tune (recall@10 80% → 84.3%), local serving via Ollama.
 
-- Discipline & Consistency: I am practical and tұraqty (consistent/reliable), ensuring projects are completed with high standards.
+## Open source
+- **[Soup](https://github.com/MakazhanAlpamys/Soup)** (LLM fine-tuning CLI) — 4 issues with reproductions (3 confirmed as bugs), [PR #2805](https://github.com/MakazhanAlpamys/Soup/pull/2805): Kazakh language detection fix.
 
-- Team Collaboration: Ready to contribute effectively to team environments, participate in Code Reviews, and manage collaborative tasks using Git.
+## Stack
+Python · Go · TypeScript · SQL · FastAPI · gRPC · PostgreSQL / pgvector · Redis · Kafka · PyTorch · Transformers · PEFT / QLoRA · FAISS · Ollama / GGUF · Docker · Kubernetes · Helm · ArgoCD
 
-✨ Projects and Relevant Experience
-Please explore my best personal projects ("pet-projects") pinned below in the "Pinned repositories" section.
-
-Project 1 - Movie Theater App (HTML/CSS/JS): Project Leader. I led the team in developing the front-end interface for an online cinema platform. I was responsible for the overall architecture, task distribution, and final integration using HTML, CSS (styling), and JavaScript (JS). This project highlights my leadership and teamwork skills.
-
-Project 2 - Airport Management System (Java): Individual Pet Project. A comprehensive airport management system developed using Java. This project demonstrates strong knowledge of Object-Oriented Programming (OOP), data structures, and business logic implementation.
-💼 Soft Skills & Previous Work Experience
-My background includes roles that demonstrate crucial soft skills valued in development teams:
-Online Course Curator: Experience in mentorship and teaching, showing an ability to clearly explain complex concepts and support learning.
-Technical Support Specialist: Proven ability in troubleshooting, problem-solving, high responsibility, and resilience under pressure.
-
-🎯 My Career Goal
-I am actively pursuing an Intern / Junior Back-end Developer position where I can:
-
-1) Contribute to the development of live, production-level products.
-2) Apply industry best practices using Java and the Spring framework.
-3) Grow rapidly within a dynamic and professional team.
-
-I am ready to learn and dedicate 100% effort to any task!
-
-📧	myrzataevddd0606@gmail.com
-📞	87005202097
-✈️ @mmyrzatay
+## Contact
+[LinkedIn](https://linkedin.com/in/danial-myrzatayev-mdm006) · Telegram [@mmyrzatay](https://t.me/mmyrzatay) · mmyrzatayev1@gmail.com
